@@ -79,3 +79,16 @@ Here is the folder structure of this app.
 
 ## :camera: Screenshots:
 
+![one](https://github.com/zeeCode15/MyPortfolio3D/assets/89879537/2ab44aab-f80c-48a2-bb98-e0ee1c6248ae)
+
+![two](https://github.com/zeeCode15/MyPortfolio3D/assets/89879537/dd7236f3-7fdf-4346-9d03-d105ac9ae07a)
+
+![three](https://github.com/zeeCode15/MyPortfolio3D/assets/89879537/fe0b1408-137b-4d03-a531-a086c1ec0826)
+
+![four](https://github.com/zeeCode15/MyPortfolio3D/assets/89879537/36626638-da8f-4688-82b6-4981c44e4295)
+
+![five](https://github.com/zeeCode15/MyPortfolio3D/assets/89879537/b59e6d2a-f7a3-49a6-967f-b3b9b73f8928)
+
+
+
+
